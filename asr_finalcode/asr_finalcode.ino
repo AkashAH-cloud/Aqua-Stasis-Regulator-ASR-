@@ -39,5 +39,5 @@ void loop() {
   Serial.print(",Level:");
   Serial.println(waterLevel, 0);
 
-  delay(1000);
+  delay(1500);
 }
